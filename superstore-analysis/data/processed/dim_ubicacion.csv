@@ -1,0 +1,633 @@
+city,state,country,region,postal_code,location_id
+Henderson,Kentucky,United States,South,42420,1
+Los Angeles,California,United States,West,90036,2
+Fort Lauderdale,Florida,United States,South,33311,3
+Los Angeles,California,United States,West,90032,4
+Concord,North Carolina,United States,South,28027,5
+Seattle,Washington,United States,West,98103,6
+Fort Worth,Texas,United States,Central,76106,7
+Madison,Wisconsin,United States,Central,53711,8
+West Jordan,Utah,United States,West,84084,9
+San Francisco,California,United States,West,94109,10
+Fremont,Nebraska,United States,Central,68025,11
+Philadelphia,Pennsylvania,United States,East,19140,12
+Orem,Utah,United States,West,84057,13
+Los Angeles,California,United States,West,90049,14
+Houston,Texas,United States,Central,77095,15
+Richardson,Texas,United States,Central,75080,16
+Houston,Texas,United States,Central,77041,17
+Naperville,Illinois,United States,Central,60540,18
+Melbourne,Florida,United States,South,32935,19
+Eagan,Minnesota,United States,Central,55122,20
+Westland,Michigan,United States,Central,48185,21
+Dover,Delaware,United States,East,19901,22
+New Albany,Indiana,United States,Central,47150,23
+New York City,New York,United States,East,10024,24
+Troy,New York,United States,East,12180,25
+Los Angeles,California,United States,West,90004,26
+Chicago,Illinois,United States,Central,60610,27
+Gilbert,Arizona,United States,West,85234,28
+Springfield,Virginia,United States,South,22153,29
+New York City,New York,United States,East,10009,30
+Jackson,Michigan,United States,Central,49201,31
+Memphis,Tennessee,United States,South,38109,32
+Houston,Texas,United States,Central,77070,33
+Decatur,Alabama,United States,South,35601,34
+San Francisco,California,United States,West,94122,35
+Durham,North Carolina,United States,South,27707,36
+Chicago,Illinois,United States,Central,60623,37
+Columbia,South Carolina,United States,South,29203,38
+Rochester,Minnesota,United States,Central,55901,39
+Minneapolis,Minnesota,United States,Central,55407,40
+Portland,Oregon,United States,West,97206,41
+Saint Paul,Minnesota,United States,Central,55106,42
+Aurora,Colorado,United States,West,80013,43
+Charlotte,North Carolina,United States,South,28205,44
+Orland Park,Illinois,United States,Central,60462,45
+New York City,New York,United States,East,10035,46
+Urbandale,Iowa,United States,Central,50322,47
+Columbus,Ohio,United States,East,43229,48
+Bristol,Tennessee,United States,South,37620,49
+Wilmington,Delaware,United States,East,19805,50
+Bloomington,Illinois,United States,Central,61701,51
+Phoenix,Arizona,United States,West,85023,52
+Roseville,California,United States,West,95661,53
+Independence,Missouri,United States,Central,64055,54
+Pasadena,California,United States,West,91104,55
+Newark,Ohio,United States,East,43055,56
+Franklin,Wisconsin,United States,Central,53132,57
+Scottsdale,Arizona,United States,West,85254,58
+San Jose,California,United States,West,95123,59
+Seattle,Washington,United States,West,98105,60
+Seattle,Washington,United States,West,98115,61
+Edmond,Oklahoma,United States,Central,73034,62
+Los Angeles,California,United States,West,90045,63
+Philadelphia,Pennsylvania,United States,East,19134,64
+Carlsbad,New Mexico,United States,West,88220,65
+San Antonio,Texas,United States,Central,78207,66
+Houston,Texas,United States,Central,77036,67
+Decatur,Illinois,United States,Central,62521,68
+Monroe,Louisiana,United States,South,71203,69
+Fairfield,Connecticut,United States,East,6824,70
+Grand Prairie,Texas,United States,Central,75051,71
+Redlands,California,United States,West,92374,72
+Hamilton,Ohio,United States,East,45011,73
+Westfield,New Jersey,United States,East,7090,74
+Philadelphia,Pennsylvania,United States,East,19120,75
+Akron,Ohio,United States,East,44312,76
+Denver,Colorado,United States,West,80219,77
+Dallas,Texas,United States,Central,75220,78
+Franklin,Tennessee,United States,South,37064,79
+Whittier,California,United States,West,90604,80
+Saginaw,Michigan,United States,Central,48601,81
+Medina,Ohio,United States,East,44256,82
+Dublin,Ohio,United States,East,43017,83
+Detroit,Michigan,United States,Central,48227,84
+Columbia,Tennessee,United States,South,38401,85
+Tampa,Florida,United States,South,33614,86
+Santa Clara,California,United States,West,95051,87
+Lakeville,Minnesota,United States,Central,55044,88
+San Diego,California,United States,West,92037,89
+Pasadena,Texas,United States,Central,77506,90
+Brentwood,California,United States,West,94513,91
+Chapel Hill,North Carolina,United States,South,27514,92
+Morristown,New Jersey,United States,East,7960,93
+Cincinnati,Ohio,United States,East,45231,94
+San Francisco,California,United States,West,94110,95
+Inglewood,California,United States,West,90301,96
+Tamarac,Florida,United States,South,33319,97
+Colorado Springs,Colorado,United States,West,80906,98
+Belleville,New Jersey,United States,East,7109,99
+Taylor,Michigan,United States,Central,48180,100
+Lakewood,New Jersey,United States,East,8701,101
+Arlington,Virginia,United States,South,22204,102
+Arvada,Colorado,United States,West,80004,103
+Hackensack,New Jersey,United States,East,7601,104
+Saint Petersburg,Florida,United States,South,33710,105
+Philadelphia,Pennsylvania,United States,East,19143,106
+Long Beach,California,United States,West,90805,107
+Hesperia,California,United States,West,92345,108
+Murfreesboro,Tennessee,United States,South,37130,109
+Layton,Utah,United States,West,84041,110
+Austin,Texas,United States,Central,78745,111
+Lowell,Massachusetts,United States,East,1852,112
+Columbus,Georgia,United States,South,31907,113
+Manchester,Connecticut,United States,East,6040,114
+Harlingen,Texas,United States,Central,78550,115
+Tucson,Arizona,United States,West,85705,116
+Quincy,Illinois,United States,Central,62301,117
+Franklin,Massachusetts,United States,East,2038,118
+Pembroke Pines,Florida,United States,South,33024,119
+Des Moines,Washington,United States,West,98198,120
+Peoria,Illinois,United States,Central,61604,121
+Las Vegas,Nevada,United States,West,89115,122
+Warwick,Rhode Island,United States,East,2886,123
+Miami,Florida,United States,South,33180,124
+Wilmington,North Carolina,United States,South,28403,125
+Huntington Beach,California,United States,West,92646,126
+Richmond,Kentucky,United States,South,40475,127
+Louisville,Colorado,United States,West,80027,128
+Lawrence,Massachusetts,United States,East,1841,129
+Jackson,Mississippi,United States,South,39212,130
+Canton,Michigan,United States,Central,48187,131
+New Rochelle,New York,United States,East,10801,132
+Gastonia,North Carolina,United States,South,28052,133
+Jacksonville,Florida,United States,South,32216,134
+Columbus,Indiana,United States,Central,47201,135
+Auburn,New York,United States,East,13021,136
+Norman,Oklahoma,United States,Central,73071,137
+Concord,California,United States,West,94521,138
+Park Ridge,Illinois,United States,Central,60068,139
+Amarillo,Texas,United States,Central,79109,140
+Lindenhurst,New York,United States,East,11757,141
+Los Angeles,California,United States,West,90008,142
+San Diego,California,United States,West,92024,143
+Huntsville,Texas,United States,Central,77340,144
+Rochester,New York,United States,East,14609,145
+Fayetteville,Arkansas,United States,South,72701,146
+Costa Mesa,California,United States,West,92627,147
+Parker,Colorado,United States,West,80134,148
+Atlanta,Georgia,United States,South,30318,149
+Gladstone,Missouri,United States,Central,64118,150
+Great Falls,Montana,United States,West,59405,151
+Detroit,Michigan,United States,Central,48234,152
+Lakeland,Florida,United States,South,33801,153
+Montgomery,Alabama,United States,South,36116,154
+Mesa,Arizona,United States,West,85204,155
+Chicago,Illinois,United States,Central,60653,156
+Green Bay,Wisconsin,United States,Central,54302,157
+Springfield,Ohio,United States,East,45503,158
+Anaheim,California,United States,West,92804,159
+Marysville,Washington,United States,West,98270,160
+Salem,Oregon,United States,West,97301,161
+Laredo,Texas,United States,Central,78041,162
+Dallas,Texas,United States,Central,75217,163
+Grove City,Ohio,United States,East,43123,164
+New York City,New York,United States,East,10011,165
+Dearborn,Michigan,United States,Central,48126,166
+Warner Robins,Georgia,United States,South,31088,167
+Vallejo,California,United States,West,94591,168
+Mission Viejo,California,United States,West,92691,169
+Rochester Hills,Michigan,United States,Central,48307,170
+Plainfield,New Jersey,United States,East,7060,171
+Sierra Vista,Arizona,United States,West,85635,172
+Vancouver,Washington,United States,West,98661,173
+Aurora,Illinois,United States,Central,60505,174
+Arlington,Texas,United States,Central,76017,175
+Louisville,Kentucky,United States,South,40214,176
+Dallas,Texas,United States,Central,75081,177
+Cleveland,Ohio,United States,East,44105,178
+Tyler,Texas,United States,Central,75701,179
+Burlington,North Carolina,United States,South,27217,180
+Waynesboro,Virginia,United States,South,22980,181
+Chester,Pennsylvania,United States,East,19013,182
+Cary,North Carolina,United States,South,27511,183
+Palm Coast,Florida,United States,South,32137,184
+Mount Vernon,New York,United States,East,10550,185
+Detroit,Michigan,United States,Central,48205,186
+Hialeah,Florida,United States,South,33012,187
+Oceanside,New York,United States,East,11572,188
+San Diego,California,United States,West,92105,189
+Evanston,Illinois,United States,Central,60201,190
+Trenton,Michigan,United States,Central,48183,191
+Cottage Grove,Minnesota,United States,Central,55016,192
+Bossier City,Louisiana,United States,South,71111,193
+Des Moines,Iowa,United States,Central,50315,194
+Lancaster,California,United States,West,93534,195
+Richmond,Virginia,United States,South,23223,196
+Asheville,North Carolina,United States,South,28806,197
+Lake Elsinore,California,United States,West,92530,198
+Omaha,Nebraska,United States,Central,68104,199
+Edmonds,Washington,United States,West,98026,200
+Santa Ana,California,United States,West,92704,201
+Milwaukee,Wisconsin,United States,Central,53209,202
+Florence,Kentucky,United States,South,41042,203
+Lorain,Ohio,United States,East,44052,204
+Linden,New Jersey,United States,East,7036,205
+Salinas,California,United States,West,93905,206
+New Brunswick,New Jersey,United States,East,8901,207
+Lancaster,Pennsylvania,United States,East,17602,208
+Concord,New Hampshire,United States,East,3301,209
+Columbia,Maryland,United States,East,21044,210
+Garland,Texas,United States,Central,75043,211
+Norwich,Connecticut,United States,East,6360,212
+Alexandria,Virginia,United States,South,22304,213
+Toledo,Ohio,United States,East,43615,214
+Farmington,New Mexico,United States,West,87401,215
+Riverside,California,United States,West,92503,216
+Torrance,California,United States,West,90503,217
+Round Rock,Texas,United States,Central,78664,218
+Oceanside,California,United States,West,92054,219
+Boca Raton,Florida,United States,South,33433,220
+Virginia Beach,Virginia,United States,South,23464,221
+Murrieta,California,United States,West,92563,222
+Jacksonville,North Carolina,United States,South,28540,223
+Burlington,Iowa,United States,Central,52601,224
+Olympia,Washington,United States,West,98502,225
+Washington,District of Columbia,United States,East,20016,226
+Jefferson City,Missouri,United States,Central,65109,227
+Saint Peters,Missouri,United States,Central,63376,228
+Rockford,Illinois,United States,Central,61107,229
+Miami,Florida,United States,South,33142,230
+Brownsville,Texas,United States,Central,78521,231
+Yonkers,New York,United States,East,10701,232
+Oakland,California,United States,West,94601,233
+Monroe,North Carolina,United States,South,28110,234
+Clinton,Maryland,United States,East,20735,235
+Encinitas,California,United States,West,92024,236
+Roswell,Georgia,United States,South,30076,237
+Jonesboro,Arkansas,United States,South,72401,238
+Richmond,Indiana,United States,Central,47374,239
+Antioch,California,United States,West,94509,240
+Homestead,Florida,United States,South,33030,241
+La Porte,Indiana,United States,Central,46350,242
+Lansing,Michigan,United States,Central,48911,243
+Cuyahoga Falls,Ohio,United States,East,44221,244
+Reno,Nevada,United States,West,89502,245
+Harrisonburg,Virginia,United States,South,22801,246
+Escondido,California,United States,West,92025,247
+Royal Oak,Michigan,United States,Central,48073,248
+Rockville,Maryland,United States,East,20852,249
+Coral Springs,Florida,United States,South,33065,250
+Buffalo,New York,United States,East,14215,251
+Boynton Beach,Florida,United States,South,33437,252
+Gulfport,Mississippi,United States,South,39503,253
+Fresno,California,United States,West,93727,254
+Greenville,North Carolina,United States,South,27834,255
+Long Beach,New York,United States,East,11561,256
+Florence,Alabama,United States,South,35630,257
+Macon,Georgia,United States,South,31204,258
+Cedar Rapids,Iowa,United States,Central,52402,259
+Providence,Rhode Island,United States,East,2908,260
+Pueblo,Colorado,United States,West,81001,261
+Fairfield,California,United States,West,94533,262
+Deltona,Florida,United States,South,32725,263
+Murray,Kentucky,United States,South,42071,264
+Middletown,Connecticut,United States,East,6457,265
+Freeport,New York,United States,East,11520,266
+Pico Rivera,California,United States,West,90660,267
+Provo,Utah,United States,West,84604,268
+Pleasant Grove,Utah,United States,West,84062,269
+Smyrna,Georgia,United States,South,30080,270
+Salem,Virginia,United States,South,24153,271
+Parma,Ohio,United States,East,44134,272
+Mobile,Alabama,United States,South,36608,273
+New Bedford,Massachusetts,United States,East,2740,274
+Irving,Texas,United States,Central,75061,275
+Vineland,New Jersey,United States,East,8360,276
+Glendale,Arizona,United States,West,85301,277
+Niagara Falls,New York,United States,East,14304,278
+Thomasville,North Carolina,United States,South,27360,279
+Westminster,California,United States,West,92683,280
+Jackson,Tennessee,United States,South,38301,281
+Coppell,Texas,United States,Central,75019,282
+Pomona,California,United States,West,91767,283
+North Las Vegas,Nevada,United States,West,89031,284
+Allentown,Pennsylvania,United States,East,18103,285
+Newark,Delaware,United States,East,19711,286
+Tempe,Arizona,United States,West,85281,287
+Laguna Niguel,California,United States,West,92677,288
+Bridgeton,New Jersey,United States,East,8302,289
+Everett,Massachusetts,United States,East,2149,290
+Watertown,New York,United States,East,13601,291
+Appleton,Wisconsin,United States,Central,54915,292
+Bellevue,Washington,United States,West,98006,293
+Allen,Texas,United States,Central,75002,294
+El Paso,Texas,United States,Central,79907,295
+Grapevine,Texas,United States,Central,76051,296
+Carrollton,Texas,United States,Central,75007,297
+Smyrna,Tennessee,United States,South,37167,298
+Kent,Washington,United States,West,98031,299
+Lafayette,Louisiana,United States,South,70506,300
+Tigard,Oregon,United States,West,97224,301
+Skokie,Illinois,United States,Central,60076,302
+Plano,Texas,United States,Central,75023,303
+Suffolk,Virginia,United States,South,23434,304
+Indianapolis,Indiana,United States,Central,46203,305
+Bayonne,New Jersey,United States,East,7002,306
+Fayetteville,North Carolina,United States,South,28314,307
+Greensboro,North Carolina,United States,South,27405,308
+Baltimore,Maryland,United States,East,21215,309
+Kenosha,Wisconsin,United States,Central,53142,310
+Olathe,Kansas,United States,Central,66062,311
+Auburn,Washington,United States,West,98002,312
+Tulsa,Oklahoma,United States,Central,74133,313
+Redmond,Oregon,United States,West,97756,314
+Raleigh,North Carolina,United States,South,27604,315
+Muskogee,Oklahoma,United States,Central,74403,316
+Meriden,Connecticut,United States,East,6450,317
+Bowling Green,Kentucky,United States,South,42104,318
+South Bend,Indiana,United States,Central,46614,319
+Bristol,Connecticut,United States,East,6010,320
+Henderson,Nevada,United States,West,89015,321
+Spokane,Washington,United States,West,99207,322
+Keller,Texas,United States,Central,76248,323
+Fairfield,Ohio,United States,East,45014,324
+Port Orange,Florida,United States,South,32127,325
+Medford,Oregon,United States,West,97504,326
+Charlottesville,Virginia,United States,South,22901,327
+Missoula,Montana,United States,West,59801,328
+Miami,Florida,United States,South,33178,329
+Florence,South Carolina,United States,South,29501,330
+Springfield,Oregon,United States,West,97477,331
+Apopka,Florida,United States,South,32712,332
+Reading,Pennsylvania,United States,East,19601,333
+Broomfield,Colorado,United States,West,80020,334
+Springfield,Missouri,United States,Central,65807,335
+Paterson,New Jersey,United States,East,7501,336
+Oklahoma City,Oklahoma,United States,Central,73120,337
+Chesapeake,Virginia,United States,South,23320,338
+Lubbock,Texas,United States,Central,79424,339
+Columbia,Missouri,United States,Central,65203,340
+Johnson City,Tennessee,United States,South,37604,341
+Auburn,Alabama,United States,South,36830,342
+San Bernardino,California,United States,West,92404,343
+Leominster,Massachusetts,United States,East,1453,344
+Bozeman,Montana,United States,West,59715,345
+Peoria,Arizona,United States,West,85345,346
+Lakewood,Ohio,United States,East,44107,347
+Perth Amboy,New Jersey,United States,East,8861,348
+Ontario,California,United States,West,91761,349
+Rancho Cucamonga,California,United States,West,91730,350
+Moorhead,Minnesota,United States,Central,56560,351
+Mesquite,Texas,United States,Central,75150,352
+Stockton,California,United States,West,95207,353
+Ormond Beach,Florida,United States,South,32174,354
+Sunnyvale,California,United States,West,94086,355
+Dover,New Hampshire,United States,East,3820,356
+York,Pennsylvania,United States,East,17403,357
+College Station,Texas,United States,Central,77840,358
+Saint Louis,Missouri,United States,Central,63116,359
+Quincy,Massachusetts,United States,East,2169,360
+Manteca,California,United States,West,95336,361
+Kent,Ohio,United States,East,44240,362
+San Angelo,Texas,United States,Central,76903,363
+Salt Lake City,Utah,United States,West,84106,364
+Huntsville,Alabama,United States,South,35810,365
+Knoxville,Tennessee,United States,South,37918,366
+Little Rock,Arkansas,United States,South,72209,367
+Lincoln Park,Michigan,United States,Central,48146,368
+Marion,Ohio,United States,East,43302,369
+Littleton,Colorado,United States,West,80122,370
+Burlington,Vermont,United States,East,5408,371
+Bangor,Maine,United States,East,4401,372
+Southaven,Mississippi,United States,South,38671,373
+New Castle,Indiana,United States,Central,47362,374
+Midland,Michigan,United States,Central,48640,375
+Sioux Falls,South Dakota,United States,Central,57103,376
+Fort Collins,Colorado,United States,West,80525,377
+Lafayette,Indiana,United States,Central,47905,378
+Clarksville,Tennessee,United States,South,37042,379
+Sacramento,California,United States,West,95823,380
+Thousand Oaks,California,United States,West,91360,381
+Malden,Massachusetts,United States,East,2148,382
+Holyoke,Massachusetts,United States,East,1040,383
+Albuquerque,New Mexico,United States,West,87105,384
+Sparks,Nevada,United States,West,89431,385
+Coachella,California,United States,West,92236,386
+Elmhurst,Illinois,United States,Central,60126,387
+Passaic,New Jersey,United States,East,7055,388
+North Charleston,South Carolina,United States,South,29406,389
+Newport News,Virginia,United States,South,23602,390
+Jamestown,New York,United States,East,14701,391
+Mishawaka,Indiana,United States,Central,46544,392
+Bowling Green,Ohio,United States,East,43402,393
+La Quinta,California,United States,West,92253,394
+Tallahassee,Florida,United States,South,32303,395
+Nashville,Tennessee,United States,South,37211,396
+Bellingham,Washington,United States,West,98226,397
+Woodstock,Illinois,United States,Central,60098,398
+Haltom City,Texas,United States,Central,76117,399
+Wheeling,Illinois,United States,Central,60090,400
+Summerville,South Carolina,United States,South,29483,401
+Hot Springs,Arkansas,United States,South,71901,402
+Englewood,Colorado,United States,West,80112,403
+Lancaster,Ohio,United States,East,43130,404
+Las Cruces,New Mexico,United States,West,88001,405
+Hoover,Alabama,United States,South,35244,406
+Frisco,Texas,United States,Central,75034,407
+Vacaville,California,United States,West,95687,408
+Murray,Utah,United States,West,84107,409
+Waukesha,Wisconsin,United States,Central,53186,410
+Bakersfield,California,United States,West,93309,411
+Pompano Beach,Florida,United States,South,33068,412
+Troy,Ohio,United States,East,45373,413
+Corpus Christi,Texas,United States,Central,78415,414
+Redondo Beach,California,United States,West,90278,415
+Orlando,Florida,United States,South,32839,416
+Orange,New Jersey,United States,East,7050,417
+Lake Charles,Louisiana,United States,South,70601,418
+Highland Park,Illinois,United States,Central,60035,419
+Hempstead,New York,United States,East,11550,420
+Noblesville,Indiana,United States,Central,46060,421
+Apple Valley,Minnesota,United States,Central,55124,422
+Mount Pleasant,South Carolina,United States,South,29464,423
+Sterling Heights,Michigan,United States,Central,48310,424
+Eau Claire,Wisconsin,United States,Central,54703,425
+Pharr,Texas,United States,Central,78577,426
+Billings,Montana,United States,West,59102,427
+Gresham,Oregon,United States,West,97030,428
+Chattanooga,Tennessee,United States,South,37421,429
+Meridian,Idaho,United States,West,83642,430
+Apple Valley,California,United States,West,92307,431
+Bolingbrook,Illinois,United States,Central,60440,432
+Maple Grove,Minnesota,United States,Central,55369,433
+Woodland,California,United States,West,95695,434
+Missouri City,Texas,United States,Central,77489,435
+Pearland,Texas,United States,Central,77581,436
+San Mateo,California,United States,West,94403,437
+Grand Rapids,Michigan,United States,Central,49505,438
+Visalia,California,United States,West,93277,439
+Overland Park,Kansas,United States,Central,66212,440
+Temecula,California,United States,West,92592,441
+Yucaipa,California,United States,West,92399,442
+Revere,Massachusetts,United States,East,2151,443
+Conroe,Texas,United States,Central,77301,444
+Tinley Park,Illinois,United States,Central,60477,445
+Dubuque,Iowa,United States,Central,52001,446
+Dearborn Heights,Michigan,United States,Central,48127,447
+Santa Fe,New Mexico,United States,West,87505,448
+Hickory,North Carolina,United States,South,28601,449
+Carol Stream,Illinois,United States,Central,60188,450
+Saint Cloud,Minnesota,United States,Central,56301,451
+North Miami,Florida,United States,South,33161,452
+Lawrence,Indiana,United States,Central,46226,453
+Plantation,Florida,United States,South,33317,454
+Port Saint Lucie,Florida,United States,South,34952,455
+Rock Hill,South Carolina,United States,South,29730,456
+Odessa,Texas,United States,Central,79762,457
+West Allis,Wisconsin,United States,Central,53214,458
+Chula Vista,California,United States,West,91911,459
+Manhattan,Kansas,United States,Central,66502,460
+Altoona,Pennsylvania,United States,East,16602,461
+Thornton,Colorado,United States,West,80229,462
+Champaign,Illinois,United States,Central,61821,463
+Bloomington,Indiana,United States,Central,47401,464
+Texarkana,Arkansas,United States,South,71854,465
+Edinburg,Texas,United States,Central,78539,466
+Baytown,Texas,United States,Central,77520,467
+Greenwood,Indiana,United States,Central,46142,468
+Lakewood,California,United States,West,90712,469
+Woonsocket,Rhode Island,United States,East,2895,470
+Superior,Wisconsin,United States,Central,54880,471
+Bedford,Texas,United States,Central,76021,472
+Covington,Washington,United States,West,98042,473
+Broken Arrow,Oklahoma,United States,Central,74012,474
+Miramar,Florida,United States,South,33023,475
+Hollywood,Florida,United States,South,33021,476
+Deer Park,Texas,United States,Central,77536,477
+Wichita,Kansas,United States,Central,67212,478
+Mcallen,Texas,United States,Central,78501,479
+Iowa City,Iowa,United States,Central,52240,480
+Boise,Idaho,United States,West,83704,481
+Cranston,Rhode Island,United States,East,2920,482
+Freeport,Illinois,United States,Central,61032,483
+Port Arthur,Texas,United States,Central,77642,484
+Citrus Heights,California,United States,West,95610,485
+The Colony,Texas,United States,Central,75056,486
+Redmond,Washington,United States,West,98052,487
+Daytona Beach,Florida,United States,South,32114,488
+Bullhead City,Arizona,United States,West,86442,489
+Portage,Indiana,United States,Central,46368,490
+Fargo,North Dakota,United States,Central,58103,491
+Elkhart,Indiana,United States,Central,46514,492
+San Gabriel,California,United States,West,91776,493
+Margate,Florida,United States,South,33063,494
+Sandy Springs,Georgia,United States,South,30328,495
+Mentor,Ohio,United States,East,44060,496
+Lawton,Oklahoma,United States,Central,73505,497
+Hampton,Virginia,United States,South,23666,498
+Rome,New York,United States,East,13440,499
+La Crosse,Wisconsin,United States,Central,54601,500
+Lewiston,Idaho,United States,West,83501,501
+Hattiesburg,Mississippi,United States,South,39401,502
+Danville,California,United States,West,94526,503
+Mount Pleasant,Michigan,United States,Central,48858,504
+Logan,Utah,United States,West,84321,505
+Waterbury,Connecticut,United States,East,6708,506
+Athens,Georgia,United States,South,30605,507
+Lewiston,Maine,United States,East,4240,508
+Danville,Illinois,United States,Central,61832,509
+Avondale,Arizona,United States,West,85323,510
+Marietta,Georgia,United States,South,30062,511
+Yuma,Arizona,United States,West,85364,512
+Wausau,Wisconsin,United States,Central,54401,513
+Pasco,Washington,United States,West,99301,514
+Oak Park,Illinois,United States,Central,60302,515
+Pensacola,Florida,United States,South,32503,516
+League City,Texas,United States,Central,77573,517
+Gaithersburg,Maryland,United States,East,20877,518
+Lehi,Utah,United States,West,84043,519
+Tuscaloosa,Alabama,United States,South,35401,520
+Moreno Valley,California,United States,West,92553,521
+Georgetown,Kentucky,United States,South,40324,522
+Loveland,Colorado,United States,West,80538,523
+Chandler,Arizona,United States,West,85224,524
+Helena,Montana,United States,West,59601,525
+Kirkwood,Missouri,United States,Central,63122,526
+Waco,Texas,United States,Central,76706,527
+Roseville,Michigan,United States,Central,48066,528
+Frankfort,Illinois,United States,Central,60423,529
+Bethlehem,Pennsylvania,United States,East,18018,530
+Roseville,Minnesota,United States,Central,55113,531
+Grand Island,Nebraska,United States,Central,68801,532
+Woodbury,Minnesota,United States,Central,55125,533
+Oak Park,Michigan,United States,Central,48237,534
+Rogers,Arkansas,United States,South,72756,535
+Clovis,New Mexico,United States,West,88101,536
+Jupiter,Florida,United States,South,33458,537
+Santa Barbara,California,United States,West,93101,538
+Cedar Hill,Texas,United States,Central,75104,539
+Norfolk,Nebraska,United States,Central,68701,540
+Draper,Utah,United States,West,84020,541
+Ann Arbor,Michigan,United States,Central,48104,542
+La Mesa,California,United States,West,91941,543
+Pocatello,Idaho,United States,West,83201,544
+Holland,Michigan,United States,Central,49423,545
+Milford,Connecticut,United States,East,6460,546
+Buffalo Grove,Illinois,United States,Central,60089,547
+Lake Forest,California,United States,West,92630,548
+Redding,California,United States,West,96003,549
+Chico,California,United States,West,95928,550
+Utica,New York,United States,East,13501,551
+Conway,Arkansas,United States,South,72032,552
+Cheyenne,Wyoming,United States,West,82001,553
+Owensboro,Kentucky,United States,South,42301,554
+Caldwell,Idaho,United States,West,83605,555
+Kenner,Louisiana,United States,South,70065,556
+Nashua,New Hampshire,United States,East,3060,557
+Bartlett,Tennessee,United States,South,38134,558
+Redwood City,California,United States,West,94061,559
+Lebanon,Tennessee,United States,South,37087,560
+Santa Maria,California,United States,West,93454,561
+Des Plaines,Illinois,United States,Central,60016,562
+Longview,Washington,United States,West,98632,563
+Hendersonville,Tennessee,United States,South,37075,564
+Waterloo,Iowa,United States,Central,50701,565
+Cambridge,Massachusetts,United States,East,2138,566
+Palatine,Illinois,United States,Central,60067,567
+Beverly,Massachusetts,United States,East,1915,568
+Eugene,Oregon,United States,West,97405,569
+Oxnard,California,United States,West,93030,570
+Renton,Washington,United States,West,98059,571
+Glenview,Illinois,United States,Central,60025,572
+Delray Beach,Florida,United States,South,33445,573
+Commerce City,Colorado,United States,West,80022,574
+Texas City,Texas,United States,Central,77590,575
+Wilson,North Carolina,United States,South,27893,576
+Rio Rancho,New Mexico,United States,West,87124,577
+Goldsboro,North Carolina,United States,South,27534,578
+Everett,Washington,United States,West,98208,579
+Montebello,California,United States,West,90640,580
+El Cajon,California,United States,West,92020,581
+Beaumont,Texas,United States,Central,77705,582
+West Palm Beach,Florida,United States,South,33407,583
+Abilene,Texas,United States,Central,79605,584
+Normal,Illinois,United States,Central,61761,585
+Saint Charles,Missouri,United States,Central,63301,586
+Saint Charles,Illinois,United States,Central,60174,587
+Camarillo,California,United States,West,93010,588
+Hillsboro,Oregon,United States,West,97123,589
+Burbank,California,United States,West,91505,590
+Modesto,California,United States,West,95351,591
+Garden City,Kansas,United States,Central,67846,592
+Atlantic City,New Jersey,United States,East,8401,593
+Longmont,Colorado,United States,West,80501,594
+Davis,California,United States,West,95616,595
+Wheeling,West Virginia,United States,East,26003,596
+Morgan Hill,California,United States,West,95037,597
+Clifton,New Jersey,United States,East,7011,598
+Sheboygan,Wisconsin,United States,Central,53081,599
+East Point,Georgia,United States,South,30344,600
+Rapid City,South Dakota,United States,Central,57701,601
+Andover,Massachusetts,United States,East,1810,602
+Kissimmee,Florida,United States,South,34741,603
+Shelton,Connecticut,United States,East,6484,604
+Danbury,Connecticut,United States,East,6810,605
+Marion,Iowa,United States,Central,52302,606
+Sanford,Florida,United States,South,32771,607
+San Marcos,Texas,United States,Central,78666,608
+Greeley,Colorado,United States,West,80634,609
+Mansfield,Texas,United States,Central,76063,610
+Elyria,Ohio,United States,East,44035,611
+Twin Falls,Idaho,United States,West,83301,612
+Coral Gables,Florida,United States,South,33134,613
+Romeoville,Illinois,United States,Central,60441,614
+Marlborough,Massachusetts,United States,East,1752,615
+Laurel,Maryland,United States,East,20707,616
+Bryan,Texas,United States,Central,77803,617
+Pine Bluff,Arkansas,United States,South,71603,618
+Aberdeen,South Dakota,United States,Central,57401,619
+Hagerstown,Maryland,United States,East,21740,620
+East Orange,New Jersey,United States,East,7017,621
+Arlington Heights,Illinois,United States,Central,60004,622
+Oswego,Illinois,United States,Central,60543,623
+Coon Rapids,Minnesota,United States,Central,55433,624
+San Clemente,California,United States,West,92672,625
+Dublin,California,United States,West,94568,626
+San Luis Obispo,California,United States,West,93405,627
+Springdale,Arkansas,United States,South,72762,628
+Lodi,California,United States,West,95240,629
+La Porte,Texas,United States,Central,77571,630
+Mason,Ohio,United States,East,45040,631
+Woodstock,Georgia,United States,South,30188,632
