@@ -27,4 +27,4 @@ CSV → Python ETL → SQL Server (esquema estrella) → Power BI Dashboard
 4. Las ventas crecieron consistentemente de 2014 a 2017 con pico en Q4 cada año
 
 ## Dashboard
-![Resumen](dashboard/screenshots/Screenshot%202026-03-06%20122859.png)
+C:\Python\superstore-analysis\dashboard\screenshots
