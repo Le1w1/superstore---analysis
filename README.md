@@ -2,11 +2,10 @@
 Proyecto de análisis de datos end-to-end utilizando Python, SQL Server y Power BI.
 
 ## Problema de negocio
-Una empresa retail necesita entender qué categorías, regiones y productos generan pérdidas, 
-y cómo la política de descuentos impacta en la rentabilidad.
+El equipo comercial descubrió que a pesar de crecer en ventas año a año, los márgenes se erosionaban. Este análisis identificó que una sola subcategoría (Tables) destruye $17.725 en valor y que toda la región Central opera en negativo, problemas invisibles sin un modelo de datos adecuado."
 
 ## Stack tecnológico
-- **Python** (Pandas) — ETL y limpieza de datos
+- **Python** (Pandas) — Normalización del dataset en esquema estrella con 4 tablas para optimizar el modelo relacional en SQL Server
 - **SQL Server** — Modelado dimensional y queries analíticas
 - **Power BI** — Dashboard interactivo
 
@@ -22,8 +21,8 @@ CSV → Python ETL → SQL Server (esquema estrella) → Power BI Dashboard
 
 ## Insights principales
 1. **Furniture** tiene el margen más bajo (4.27%) a pesar de ser la segunda categoría en ventas
-2. **Tables** pierde $17,725 con un descuento promedio del 26% — la subcategoría más destructiva
-3. **Central** es la única región con margen negativo (-19.8%)
+2. **Tables** pierde $17,725 con un descuento promedio del 26% — la subcategoría más destructiva → Eliminar o rediseñar la política de descuentos por encima del 20% en esta subcategoría
+3. **Central** es la única región con margen negativo (-19.8%) → Auditar estructura de costos operativos regionales antes de seguir escalando ventas allí
 4. Las ventas crecieron consistentemente de 2014 a 2017 con pico en Q4 cada año
 
 ## Dashboard
